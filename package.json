@@ -4,4 +4,7 @@
     "express": "^4.19.2",
     "mongodb": "^6.8.0"
   }
+  "scripts": {
+  "build": "your-build-command"
+}
 }
