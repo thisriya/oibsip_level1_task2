@@ -579,3 +579,13 @@
   .footer-link:active {
     color: #e36bbb;
   }
+
+@media (max-width: 768px) {
+ .resume{
+  margin-left: 0px;
+ }
+
+ .resume-text{
+  margin-top: 0px;
+ }
+}
